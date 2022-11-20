@@ -30,7 +30,7 @@ body{
     width:130%;
     height:95%;
     background:linear-gradient(to right,rgba(110,155,39,0.6),rgba(20,54,1,0.4)),url("https://i.postimg.cc/9XN8dmP6/hero.jpg")center top no-repeat;/*image-size 1920H 1080W*/
-    z-index:0;
+    z-index:1;
     border-radius: 0 0 50% 50%;
     transform:translateX(-50%) rotate(0deg);
 }
